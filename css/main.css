@@ -1,0 +1,412 @@
+
+
+
+
+
+div#menu {
+    background-color: rgba(128, 128, 128, 0.13);
+    height: 800px;
+    width: 100%;
+    margin-top: -15px;
+    padding-left: -15px;
+    padding-right: -50px;
+    padding-right: 60px;
+   
+}
+.navbar-nav {
+    text-align: right;
+    margin-right: 250px;
+    
+    
+    
+}
+li {
+    display: inline;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin-top: 20px;
+    list-style: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 10px
+
+}
+
+
+
+li.nav-twit {
+    font-size: 15px;
+    background-color: rgb(48, 166, 235) ;
+    text-align: right;
+    border-radius: 10px;
+    
+  
+    
+}
+
+a.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-twit img {
+    height: 15px;
+    
+}
+
+li.nav-text{
+    text-align: left;
+    margin-right: 450px;
+    font-family: cursive;
+    color: rgb(132, 132, 247);
+    cursor: none;
+
+}
+
+div#kata {
+    padding-left: 160px;
+    padding-top: 50px;
+    font-size: 20px;
+    position: absolute;
+  
+    width: 500px;
+}
+
+.kalimat {
+    
+        top: 20px;
+        margin-top: -20px;
+        color: grey;
+
+}
+
+li.nav-wit {
+    font-size: 10px ;
+    background-color: rgb(48, 166, 235) ;
+    text-align: right;
+    border-radius: 5px;
+    cursor: pointer;
+    
+   
+  
+    
+}
+
+a.nav-daftar {
+    text-decoration: none;
+    color: white;
+}
+
+a.belajar {
+    margin-left: 50px;
+    color: rgba(16, 16, 165, 0.719);
+    top: 20px;
+    cursor: pointer;
+}
+
+div#poto {
+    display: inline-grid;
+    border-spacing: 10px;
+    margin-left: -50px;
+}
+
+li.ft2 {
+    margin-left: -45px;
+}
+
+li.ft3 {
+    margin-left: -38px;
+}
+
+p {
+    margin-top: auto;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: grey;
+
+}
+
+a.angka {
+    color: blue;
+    text-decoration: none;
+}
+
+a.angka2 {
+    color: blue;
+    text-decoration: none;
+}
+
+img.contain {
+    height: auto;
+    width: 400px;
+    
+    padding-left: 900px;
+    padding-top: 30px;
+}
+
+div.materi {
+    border: 1px grey solid;
+    border-radius:5px;
+    height: 200px;
+    width: 450px;
+    margin-top: 100px;
+    margin-left:100px;
+    background-color: rgb(255, 255, 255);
+}
+
+div.konten{
+    background-color: rgb(235, 28, 28);
+}
+
+h1.judul{
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 80px;
+    color: rgb(0, 0, 0);
+    
+
+
+}
+
+img.analisis {
+    height: 40px;
+    margin-left: 5px;
+}
+
+h2{
+    
+        font-size: 22px;
+        padding-left: 3px;
+        margin-top: -2px;
+    
+}
+
+div.MT{
+    border: 1px grey solid;
+    border-radius:5px;
+    height: 200px;
+    width: 450px;
+    margin-top: 100px;
+    margin-left:100px;
+}
+
+img.smart {
+    height: 50px;
+    margin-left: 15px;
+}
+
+h2.teks {
+    
+        margin-top: 5px;
+        padding-left: 6px;
+        font-size: 22px;
+        
+    
+}
+
+.materi p {
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.MT p {
+    margin-top: 50px;
+    margin-left: 10px;
+
+}
+
+img.Home {
+    height: 40px;
+    margin-left: 10px;
+}
+
+.M {
+    border: 1px solid grey;
+    border-radius: 5px;
+    height: 200px;
+    width: 450px;
+    
+    margin-left: 800px;
+    margin-top: -500px;
+}
+
+.M p {
+    padding-top: 20px;
+    padding-left: 10px;
+
+}
+
+.M h2 {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.MA {
+    
+        border: 1px solid grey;
+        border-radius: 5px;
+        height: 200px;
+        width: 450px;
+        margin-left: 800px;
+        margin-top: 100px;
+    
+}
+.MA p {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+img.main {
+    height: 40px;
+    margin-left: 10px;
+}
+
+.MA h2{
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+
+li.tombol {
+   
+    margin-right: 290px;
+    
+   
+}
+
+button {
+    margin-top: 90px;
+    cursor: pointer;
+    color: forestgreen;
+   
+}
+
+div#BG {
+    background-color: rgba(127, 255, 212, 0.219);
+    height: 500px;
+    width: 100%;
+    margin-top: -15px;
+    padding-left: -15px;
+    padding-right: -50px;
+    padding-right: 60px;
+}
+
+h1.title {
+    font-size: 22px;
+    font-family: sans-serif;
+    font-variant: jis83;
+    font-weight: 700;
+    padding-top: 80px;
+    padding-left: 80px;
+}
+
+.user {
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    margin-left: 30px;
+}
+
+img.user2 {
+    margin-top: 40px;
+    padding-left: 30px;
+}
+
+h4.UI {
+    margin-left: 85px;
+    margin-top: -45px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+h6.UX {
+    margin-left: 84px;
+    margin-top: -15px;
+    color: grey;
+}
+
+
+img.UF {
+     padding-top: -500px;
+     padding-left: 250px;
+     height: 50px;
+     width: 20px;
+}
+
+.user p {
+    padding-top: 35px;
+    padding-left: 20px;
+}
+
+.suka {
+
+    margin-top: 10px;
+    opacity: 1.0;
+    margin-left: 10px;
+
+}
+
+h4.angka {
+    margin-top: -24px;
+    margin-left: 40px;
+}
+
+
+
+.box {
+        border: 1px solid white;
+        border-radius: 10px;
+        width: 400px;
+        height: 250px;
+        background-color: white;
+        margin-left: 450px;
+        margin-top: -200px;
+    
+}
+
+img.user1 {
+    margin-top: 40px;
+    padding-left: 30px;
+}
+
+h4.UH {
+    margin-left: 85px;
+    margin-top: -45px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+h6.UC {
+    margin-left: 84px;
+    margin-top: -15px;
+    color: grey;
+}
+
+
+img.UT {
+     padding-top: -500px;
+     padding-left: 250px;
+     height: 50px;
+     width: 20px;
+}
+
+.box p {
+    padding-top: -20px;
+    padding-left: 30px;
+}
+
+.LIKE {
+
+    margin-top: 10px;
+    opacity: 1.0;
+    margin-left: 10px;
+
+}
+
+h4.NUMB {
+    margin-top: -24px;
+    margin-left: 40px;
+}
