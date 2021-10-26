@@ -17,9 +17,11 @@ div#menu {
     text-align: right;
     margin-right: 250px;
     
-    
-    
-}
+   }
+
+   div #hero {
+    margin-top: 50px;
+} 
 li {
     display: inline;
     font-family: sans-serif;
@@ -307,9 +309,8 @@ h1.title {
     width: 400px;
     height: 250px;
     background-color: white;
-    margin-left: 30px;
+    margin-left: 67px;
 }
-
 img.user2 {
     margin-top: 40px;
     padding-left: 30px;
@@ -357,16 +358,14 @@ h4.angka {
 
 
 .box {
-        border: 1px solid white;
-        border-radius: 10px;
-        width: 400px;
-        height: 250px;
-        background-color: white;
-        margin-left: 450px;
-        margin-top: -200px;
-    
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    margin-left: 498px;
+    margin-top: -200px;
 }
-
 img.user1 {
     margin-top: 40px;
     padding-left: 30px;
@@ -410,3 +409,134 @@ h4.NUMB {
     margin-top: -24px;
     margin-left: 40px;
 }
+
+
+
+.box1 {
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    margin-left: 940px;
+    margin-top: -296px;
+}
+
+.senang {
+
+    margin-top: 33px;
+    opacity: 1.0;
+    margin-left: 10px;
+
+}
+
+h1.JDL {
+    margin-top: 100px;
+    margin-left: 540px;
+}
+
+p.paraf {
+    position: relative;
+    display: flex;
+    margin-top: -22px;
+    margin-left: 466px;
+    color: darkkhaki;
+    font-size: 15px;
+}
+div#last {
+    border: 1px solid khaki;
+    border-radius: 13px;
+    height: 510px;
+    width: 409px;
+    margin-left: 486px;
+    margin-top: 69px;
+}
+#last h2 {
+    font-size: 60px;
+    margin-top: -18px;
+    margin-left: 36px;
+    font-family: poppins;
+}
+
+#last h1 {
+    margin-left: 35px;
+    margin-top: 55px;
+    color: rgba(128, 128, 128, 0.425);
+}
+
+#last p {
+    margin-top: -95px;
+    margin-left: 115px;
+    font-size: 19px;
+
+
+}
+
+hr {
+    width: 360px;
+}
+
+ul.check {
+    display: grid;
+}
+
+li.gambar {
+    margin-top: -10px;
+    margin-left: -18px;
+}
+
+ul.check {
+    display: grid;
+    margin-top: -289px;
+    margin-left: 475px;
+}
+
+p.ket {
+    margin-top: -21px;
+    margin-left: 47px;
+    font-family: sans-serif;
+    font-size: 11px;
+    color: grey;
+}
+
+p.ke {
+    margin-top: -21px;
+    margin-left: 47px;
+    font-family: sans-serif;
+    font-size: 9px;
+    color: grey;
+}
+
+hr.\31 {
+    margin-left: 505px;
+    width: 360px;
+}
+
+hr.\32 {
+    width: 360px;
+    margin-left: 20px;
+}
+
+.login {
+    border: 1px solid #1b05d5;
+    border-radius: 15px;
+    background-color: skyblue;
+    height: 42px;
+    width: 184px;
+    margin-left: 608px;
+    margin-top: 56px;
+}
+
+
+a.nav-LOGIN {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 34px;
+    font-size: 16px;
+    text-align: right;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
